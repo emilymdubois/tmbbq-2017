@@ -1,0 +1,27 @@
+* {
+  font-family: 'Nunito', serif;
+}
+
+.title {
+  font-family: 'Abril Fatface', serif;
+}
+
+.bg-texas-orange {
+  background-color: #bf5700;
+}
+
+.bg-texas-blue {
+  background-color: #333f48;
+}
+
+.border--texas-blue {
+  border-color: #333f48;
+}
+
+.bg-texas-blue-faint {
+  background-color: #d4dbe1;
+}
+
+.w420 {
+  width: 420px !important;
+}
