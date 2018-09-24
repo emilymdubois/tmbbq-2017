@@ -1,7 +1,7 @@
 {
-  "name": "texas-monthly-bbq-2017",
+  "name": "bbq",
   "version": "1.0.0",
-  "homepage": "http://emilymdubois.github.io/texas-monthly-bbq-2017",
+  "homepage": "http://emilymdubois.github.io/bbq",
   "description": "An interactive map of Texas Monthly's Top 50 BBQ joints",
   "main": "index.html",
   "scripts": {
