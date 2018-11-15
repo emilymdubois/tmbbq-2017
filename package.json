@@ -19,7 +19,7 @@
     "@mapbox/react-control-text": "^0.5.0",
     "@mapbox/react-icon": "^0.2.2",
     "lodash": "^4.17.5",
-    "mapbox-gl": "^0.44.1",
+    "mapbox-gl": "0.51.0",
     "rc-slider": "^8.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
