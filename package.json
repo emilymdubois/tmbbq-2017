@@ -2,7 +2,7 @@
   "name": "tmbbq-2017",
   "version": "1.0.0",
   "homepage": "http://emilymdubois.github.io/tmbbq-2017",
-  "description": "A map of Texas Monthly’s 2017 top 50 BBQ joints",
+  "description": "A map of Texas Monthly’s 2017 top 50 barbecue joints",
   "main": "index.html",
   "scripts": {
     "build": "react-scripts build",
@@ -19,7 +19,7 @@
     "@mapbox/react-control-text": "^0.5.1",
     "@mapbox/react-icon": "^0.2.2",
     "lodash": "^4.17.21",
-    "mapbox-gl": "^2.6.1",
+    "mapbox-gl": "^1.13.1",
     "rc-slider": "^9.7.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
