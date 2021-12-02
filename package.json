@@ -1,8 +1,8 @@
 {
-  "name": "bbq",
+  "name": "tmbbq-2017",
   "version": "1.0.0",
-  "homepage": "http://emilymdubois.github.io/bbq",
-  "description": "An interactive map of Texas Monthly's Top 50 BBQ joints",
+  "homepage": "http://emilymdubois.github.io/tmbbq-2017",
+  "description": "A map of Texas Monthly’s 2017 top 50 BBQ joints",
   "main": "index.html",
   "scripts": {
     "build": "react-scripts build",
@@ -13,21 +13,33 @@
   "author": "Emily DuBois",
   "license": "ISC",
   "dependencies": {
-    "@mapbox/react-control-checkbox-set": "^0.5.1",
-    "@mapbox/react-control-range": "^0.4.0",
-    "@mapbox/react-control-select": "^0.5.0",
-    "@mapbox/react-control-text": "^0.5.0",
+    "@mapbox/react-control-checkbox-set": "^0.5.2",
+    "@mapbox/react-control-range": "^0.4.1",
+    "@mapbox/react-control-select": "^0.5.1",
+    "@mapbox/react-control-text": "^0.5.1",
     "@mapbox/react-icon": "^0.2.2",
-    "lodash": "^4.17.5",
-    "mapbox-gl": "0.51.0",
-    "rc-slider": "^8.6.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-redux": "^5.0.7",
-    "redux": "^3.7.2"
+    "lodash": "^4.17.21",
+    "mapbox-gl": "^2.6.1",
+    "rc-slider": "^9.7.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0",
-    "react-scripts": "^1.1.1"
+    "gh-pages": "^3.2.3",
+    "react-scripts": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

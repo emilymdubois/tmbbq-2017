@@ -187,14 +187,14 @@ let Sidebar = class Sidebar extends React.PureComponent {
     return (
       <div>
         <div className={classes}>
-          <div className="px30 py30 bg-texas-blue color-white">
-            <div className="title txt-h1">The List</div>
-            <div className="txt-h4 mt12">Explore the top 50 barbecue joints in Texas. Data from <a href="https://www.texasmonthly.com/food/the-list-the-top-50-barbecue-joints-in-texas/" target="_blank" rel="noopener noreferrer"><span className="txt-underline">Texas Monthly</span></a>.</div>
+          <div className="px18 py18 bg-texas-blue color-white">
+            <div className="title txt-h3">TMBBQ 2017</div>
+            <div className="txt-h5 mt12">Explore the top 50 barbecue joints in Texas. Data from <a href="https://www.texasmonthly.com/food/the-list-the-top-50-barbecue-joints-in-texas/" target="_blank" rel="noopener noreferrer"><span className="txt-underline">Texas Monthly</span></a>, 2017.</div>
           </div>
-          <div className="px30 py30">
+          <div className="px18 py18">
             {this.renderControls()}
           </div>
-          <div className="px30 py30 border-t border--gray-light scroll-styled scroll-auto">
+          <div className="px18 py18 border-t border--gray-light scroll-styled scroll-auto">
             {this.renderDisplayCards()}
           </div>
         </div>

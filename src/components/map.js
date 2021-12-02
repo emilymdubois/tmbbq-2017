@@ -5,7 +5,7 @@ import data from '../data';
 import { setActiveId } from '../redux/action_creators';
 import _ from 'lodash';
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZW1pbHltZHVib2lzIiwiYSI6ImNqZjVmcDJmbzB2M3gzM3FoNDdrc2k0czAifQ.FjkIvd3yOZyHDJ6Poj6aAg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZW1pbHltZHVib2lzIiwiYSI6ImNrd29kY29pYjAxc2gybmp2NDR2Y3V5MnMifQ.39rFFsI4-BiXeWLzbJHaBQ';
 
 let Map = class Map extends React.Component {
   constructor(props) {
