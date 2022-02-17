@@ -1,23 +1,13 @@
 {
   "files": {
-    "main.css": "/tmbbq-2017/static/css/main.51d02483.chunk.css",
-    "main.js": "/tmbbq-2017/static/js/main.3ddefbe2.chunk.js",
-    "main.js.map": "/tmbbq-2017/static/js/main.3ddefbe2.chunk.js.map",
-    "runtime-main.js": "/tmbbq-2017/static/js/runtime-main.e491fca0.js",
-    "runtime-main.js.map": "/tmbbq-2017/static/js/runtime-main.e491fca0.js.map",
-    "static/css/2.25f1cd1f.chunk.css": "/tmbbq-2017/static/css/2.25f1cd1f.chunk.css",
-    "static/js/2.d17de561.chunk.js": "/tmbbq-2017/static/js/2.d17de561.chunk.js",
-    "static/js/2.d17de561.chunk.js.map": "/tmbbq-2017/static/js/2.d17de561.chunk.js.map",
+    "main.css": "/tmbbq-2017/static/css/main.6d7a25c9.css",
+    "main.js": "/tmbbq-2017/static/js/main.701420b9.js",
     "index.html": "/tmbbq-2017/index.html",
-    "static/css/2.25f1cd1f.chunk.css.map": "/tmbbq-2017/static/css/2.25f1cd1f.chunk.css.map",
-    "static/css/main.51d02483.chunk.css.map": "/tmbbq-2017/static/css/main.51d02483.chunk.css.map",
-    "static/js/2.d17de561.chunk.js.LICENSE.txt": "/tmbbq-2017/static/js/2.d17de561.chunk.js.LICENSE.txt"
+    "main.6d7a25c9.css.map": "/tmbbq-2017/static/css/main.6d7a25c9.css.map",
+    "main.701420b9.js.map": "/tmbbq-2017/static/js/main.701420b9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e491fca0.js",
-    "static/css/2.25f1cd1f.chunk.css",
-    "static/js/2.d17de561.chunk.js",
-    "static/css/main.51d02483.chunk.css",
-    "static/js/main.3ddefbe2.chunk.js"
+    "static/css/main.6d7a25c9.css",
+    "static/js/main.701420b9.js"
   ]
 }
