@@ -62,7 +62,7 @@ let Map = class Map extends React.Component {
     });
   }
 
-  componentWillReceiveProps(nextProps) {
+  UNSAFE_componentWillReceiveProps(nextProps) {
     if (nextProps.activeId && this.state.activeId !== nextProps.activeId) {
       this.setState({ activeId: nextProps.activeId });
     }
