@@ -24,7 +24,7 @@ let Sidebar = class Sidebar extends React.PureComponent {
     };
   }
 
-  componentWillReceiveProps(nextProps, nextState) {
+  UNSAFE_componentWillReceiveProps(nextProps, nextState) {
     if (this.state.activeId !== nextProps.activeId) {
       this.setState({ activeId: nextProps.activeId, scrollTo: true });
     }

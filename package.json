@@ -19,8 +19,8 @@
     "@mapbox/react-control-text": "^0.5.1",
     "@mapbox/react-icon": "^0.2.2",
     "lodash": "^4.17.21",
-    "mapbox-gl": "^1.13.1",
-    "rc-slider": "^9.7.4",
+    "mapbox-gl": "^2.7.0",
+    "rc-slider": "^9.7.5",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-redux": "^7.2.6",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.0"
   },
   "browserslist": {
     "production": [
